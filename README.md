@@ -1,7 +1,10 @@
 # Hi, I'm [Ameya][website] 👋
 
+### I'm a Web Developer, UI/UX Designer and a Computer Science Freshman at Arizona State University.
+
 - 🌱 I’m currently learning everything!
-- ⚡ Fun fact: I'm an International level Sport Climber and I love producing music!
+- 👯 My Goal is to contribute more to open source!
+- ⚡ Fun fact: I'm an International Level Sport Climber and I love Producing Electronic Music!
 
 
 ## 📫 How to reach me:
