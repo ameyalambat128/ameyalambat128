@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[website]: https://ameyalambat.vercel.app/
+[website]: https://ameyalambat.com/
 [linkedin]: http://www.linkedin.com/in/ameyalambat
-[twitter]: https://twitter.com/LambatAmeya
+[twitter]: https://twitter.com/lambatameya
 [instagram]: https://www.instagram.com/ameyalambat128/
