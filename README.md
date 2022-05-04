@@ -1,6 +1,6 @@
 # Hi, I'm [Ameya][website] 👋
 
-### I'm a Web Developer, UI/UX Designer and a Computer Science Freshman at Arizona State University.
+### I'm a Full Stack Developer, UI/UX Designer and a Computer Science Freshman at Arizona State University.
 
 - 🌱 I’m currently learning everything!
 - 👯 My Goal is to contribute more to open source!
