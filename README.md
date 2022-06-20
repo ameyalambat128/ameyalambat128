@@ -1,6 +1,6 @@
 # Hi, I'm [Ameya][website] 👋
 
-### I'm a Full Stack Developer, UI/UX Designer and a Computer Science Freshman at Arizona State University.
+### I'm a Front-End Dev Intern at [Corsair][corsair] and a Computer Science Freshman at Arizona State University.
 
 - 🌱 I’m currently learning everything!
 - 👯 My Goal is to contribute more to open source!
@@ -20,7 +20,7 @@
 ## :bulb: Languages and Tools:
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Tailwind" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Nextjs" width="28px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" />
 <img align="left" alt="Redux" width="80px" src="https://miro.medium.com/max/7220/1*BpaqVMW2RjQAg9cFHcX1pw.png" />
@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[website]: https://ameyalambat.com/
+[corsair]: https://www.corsair.com/us/en/
+[website]: https://www.ameyalambat.com/
 [linkedin]: http://www.linkedin.com/in/ameyalambat
-[twitter]: https://twitter.com/lambatameya
+[twitter]: https://www.twitter.com/lambatameya
 [instagram]: https://www.instagram.com/ameyalambat128/
