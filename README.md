@@ -1,4 +1,4 @@
-# Hi, I'm [Ameya][website] ⚡
+# Hey, I'm [Ameya][website] ⚡
 
 ### I'm a Front-End Dev Intern at [Corsair][corsair] and a Computer Science Freshman at Arizona State University.
 
@@ -20,9 +20,9 @@
 ## :bulb: Languages and Tools:
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Tailwind" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Tailwind" width="26px" src="https://tailwindcss.com/_next/static/media/social-square.b622e290e82093c36cca57092ffe494f.jpg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Nextjs" width="28px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" />
+<img align="left" alt="Nextjs" width="32px" src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2147555239/settings_images/sztBYO9XSDmP7U3Fc6z1_15vw4q9kSO61gvM6iEuv_Server_Side_Rendering_for_Dummies.png" />
 <img align="left" alt="Redux" width="80px" src="https://miro.medium.com/max/7220/1*BpaqVMW2RjQAg9cFHcX1pw.png" />
 
 
