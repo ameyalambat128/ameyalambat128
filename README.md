@@ -1,4 +1,4 @@
-# Hi, I'm [Ameya][website] 👋
+# Hi, I'm [Ameya][website] ⚡
 
 ### I'm a Front-End Dev Intern at [Corsair][corsair] and a Computer Science Freshman at Arizona State University.
 
