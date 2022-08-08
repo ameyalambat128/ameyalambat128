@@ -1,7 +1,8 @@
 # Hey, I'm [Ameya][website] ⚡
 
-### I'm a Front-End Dev Intern at [Corsair][corsair] and a Computer Science Freshman at Arizona State University.
+### I'm a Front-End Dev Intern at [Corsair][corsair] and a Computer Science Sophomore at Arizona State University.
 
+- 📽️ Currently working on [Breze][breze]
 - 🌱 I’m currently learning everything!
 - 👯 My Goal is to contribute more to open source!
 - ⚡ Fun fact: I'm an International Level Sport Climber and I love Producing Electronic Music!
@@ -49,6 +50,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[breze]: https://breze.one
 [corsair]: https://www.corsair.com/us/en/
 [website]: https://www.ameyalambat.com/
 [linkedin]: http://www.linkedin.com/in/ameyalambat
