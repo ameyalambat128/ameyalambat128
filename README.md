@@ -27,7 +27,7 @@
   
 <img align="left" alt="Nextjs" width="32px" src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2147555239/settings_images/sztBYO9XSDmP7U3Fc6z1_15vw4q9kSO61gvM6iEuv_Server_Side_Rendering_for_Dummies.png" />
   
-<img align="left" alt="Tailwind" width="26px" src="https://tailwindcss.com/_next/static/media/social-square.b622e290e82093c36cca57092ffe494f.jpg" />
+<img align="left" alt="Tailwind" width="26px" src="https://user-images.githubusercontent.com/98990/89711240-4172a200-d989-11ea-8d51-4aaf922fa407.png" />
   
 <img align="left" alt="Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" />
   
