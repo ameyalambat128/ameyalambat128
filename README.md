@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 -->
 [breze]: https://breze.one
 [corsair]: https://www.corsair.com/us/en/
-[website]: https://www.ameyalambat.com/
+[website]: https://ameyalambat.com/
 [linkedin]: http://www.linkedin.com/in/ameyalambat
 [twitter]: https://www.twitter.com/lambatameya
 [instagram]: https://www.instagram.com/ameyalambat128/
