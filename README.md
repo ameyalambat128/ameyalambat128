@@ -2,7 +2,7 @@
 
 # Hey, I'm [Ameya][website] ⚡
 
-### I'm a Front-End Dev Intern at [Corsair][corsair] and a Computer Science Sophomore at Arizona State University.
+### I'm a Software Engineer Intern at [Corsair][corsair] and a Computer Science Sophomore at Arizona State University.
 
 - 📽️ Currently working on [Breze][breze]
 - 🌱 Learning everything!
@@ -26,6 +26,8 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
   
 <img align="left" alt="Nextjs" width="32px" src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2147555239/settings_images/sztBYO9XSDmP7U3Fc6z1_15vw4q9kSO61gvM6iEuv_Server_Side_Rendering_for_Dummies.png" />
+ 
+<img align="left" alt="Python" width="32px" src="https://www.pngmart.com/files/7/Python-PNG-File.png" /> 
   
 <img align="left" alt="Tailwind" width="26px" src="https://user-images.githubusercontent.com/98990/89711240-4172a200-d989-11ea-8d51-4aaf922fa407.png" />
   
