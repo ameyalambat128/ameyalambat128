@@ -2,8 +2,8 @@
 
 # Hey, I'm [Ameya][website] ⚡
 
-### I'm a Software Engineer Intern at [Corsair][corsair] and a Computer Science Sophomore at Arizona State University.
-
+### I'm a Software Engineer Intern at [PayPal][paypal] and a Computer Science Sophomore at Arizona State University.
+- Software Engineer Intern at [Corsair][corsair] '22
 - 📽️ Currently working on [Breze][breze]
 - 🌱 Learning everything!
 - 👯 My Goal is to contribute more to open source!
@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [breze]: https://breze.one
+[paypal]: https://www.paypal.com/us/home
 [corsair]: https://www.corsair.com/us/en/
 [website]: https://ameyalambat.com/
 [linkedin]: http://www.linkedin.com/in/ameyalambat
