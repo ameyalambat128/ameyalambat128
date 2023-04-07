@@ -5,11 +5,14 @@
 ### I'm a Software Engineer Intern at [PayPal][paypal] and a Computer Science Sophomore at Arizona State University.
 - 🏢 Software Engineer Intern at [Corsair][corsair] '22
 - 📽️ Currently working on [Breze][breze]
-- 🌱 Learning everything!
 - 👯 My Goal is to contribute more to open source!
 - ⚡ Fun fact: I'm an International Level Sport Climber and I love Producing Electronic Music!
 
-<img align="center" alt="Ameya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ameyalambat128&show_icons=true&hide_border=false&theme=dark">
+<br>
+
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ameyalambat128&show_icons=true&hide_border=false&theme=dark&border_radius=20">
+
+<img align="right" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameyalambat128&layout=compact&langs_count=7&hide=html&theme=dark&border_radius=20">
 
 <!--
 **ameyalambat128/ameyalambat128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,6 +28,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 [breze]: https://breze.one
 [paypal]: https://www.paypal.com/us/home
 [corsair]: https://www.corsair.com/us/en/
