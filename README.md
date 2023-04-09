@@ -8,8 +8,7 @@
 - 👯 My Goal is to contribute more to open source!
 - ⚡ Fun fact: I'm an International Level Sport Climber and I love Producing Electronic Music!
 
-<br>
-[![](https://visitcount.itsvg.in/api?id=gholtzap&icon=8&color=6)](https://visitcount.itsvg.in)
+
 <br>
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ameyalambat128&show_icons=true&hide_border=false&theme=dark&border_radius=20">
