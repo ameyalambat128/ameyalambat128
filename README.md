@@ -2,7 +2,7 @@
 
 # Hey, I'm [Ameya][website] ⚡
 
-### I'm a Software Engineer Intern at [PayPal][paypal] and a Computer Science Sophomore at Arizona State University.
+### I'm a Software Engineer Intern at [PayPal][paypal] and a Computer Science Junior at Arizona State University.
 - 🏢 Software Engineer Intern at [Corsair][corsair] '22
 - 📽️ Currently working on [Breze][breze]
 - 👯 My Goal is to contribute more to open source!
