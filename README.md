@@ -2,10 +2,11 @@
 
 # Hey, I'm [Ameya][website] ⚡
 
-### I'm a Software Engineer Intern at [PayPal][paypal] and a Computer Science Junior at Arizona State University.
+### I'm a Software Engineer Intern at [Onshape][onshape] and a Computer Science Junior at Arizona State University.
+- 🏢 Software Engineer Intern at [PayPal][paypal] '23
 - 🏢 Software Engineer Intern at [Corsair][corsair] '22
+- Software/ML Research at [CHS ASU][chs-asu]
 - 📽️ Currently working on [Breze][breze]
-- 👯 My Goal is to contribute more to open source!
 - ⚡ Fun fact: I'm an International Level Sport Climber and I love Producing Electronic Music!
 
 
@@ -29,7 +30,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[breze]: https://breze.one
+[breze]: https://breze.one/
+[chs-asu]: https://chs.asu.edu/
+[onshape]: https://onshape.com/en/
 [paypal]: https://www.paypal.com/us/home
 [corsair]: https://www.corsair.com/us/en/
 [website]: https://ameyalambat.com/
