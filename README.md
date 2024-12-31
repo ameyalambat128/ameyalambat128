@@ -2,7 +2,7 @@
 
 # Hey, I'm [Ameya][website] ⚡
 
-### I'm a Software Engineer Intern at [Onshape][onshape] and a Computer Science Junior at Arizona State University.
+### I'm a Software Engineer Intern at [Onshape][onshape] and a Computer Science Grad at Arizona State University.
 - 🏢 Software Engineer Intern at [PayPal][paypal] '23
 - 🏢 Software Engineer Intern at [Corsair][corsair] '22
 - Software/ML Research at [CHS ASU][chs-asu]
