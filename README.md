@@ -2,10 +2,11 @@
 
 # Hey, I'm [Ameya][website] ⚡
 
-### I'm a Software Engineer Intern at [Onshape][onshape] and a Computer Science Grad at Arizona State University.
+### I do Software/ML Research at [CHS ASU][chs-asu] and am a Computer Science Grad at Arizona State University.
+- Software/ML Research at [CHS ASU][chs-asu]
+- 🏢 Software Engineer Intern at [Onshape][onshape] '24
 - 🏢 Software Engineer Intern at [PayPal][paypal] '23
 - 🏢 Software Engineer Intern at [Corsair][corsair] '22
-- Software/ML Research at [CHS ASU][chs-asu]
 - 📽️ Currently working on [Breze][breze]
 - ⚡ Fun fact: I'm an International Level Sport Climber and I love Producing Electronic Music!
 
