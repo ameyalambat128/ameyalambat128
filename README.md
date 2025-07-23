@@ -8,7 +8,7 @@
 - 🏢 Software Engineer Intern at [PayPal][paypal] '23
 - 🏢 Software Engineer Intern at [Corsair][corsair] '22
 - 📽️ Currently working on [Breze][breze]
-- ⚡ Fun fact: I'm an International Level Sport Climber and I love Producing Electronic Music!
+- ⚡ Fun fact: I'm an International Level Rock Climber and I love Producing Electronic Music!
 
 
 <br>
