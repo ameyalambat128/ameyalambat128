@@ -13,8 +13,6 @@
 
 <br>
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ameyalambat128&show_icons=true&hide_border=false&theme=dark&border_radius=20">
-<img align="right" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameyalambat128&layout=compact&langs_count=6&hide=html&theme=dark&border_radius=20">
 
 <!--
 **ameyalambat128/ameyalambat128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
