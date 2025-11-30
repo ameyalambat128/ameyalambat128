@@ -3,16 +3,13 @@
 # Hey, I'm [Ameya][website] ⚡
 
 ### I do Software/ML Research at [CHS ASU][chs-asu] and am a Computer Science Grad at Arizona State University.
+- 📽️ Currently working on [DevGraph][devgraph]
 - Software/ML Research at [CHS ASU][chs-asu]
 - 🏢 Software Engineer Intern at [Onshape][onshape] '24
 - 🏢 Software Engineer Intern at [PayPal][paypal] '23
 - 🏢 Software Engineer Intern at [Corsair][corsair] '22
-- 📽️ Currently working on [Breze][breze]
-- ⚡ Fun fact: I'm an International Level Rock Climber and I love Producing Electronic Music!
-
-
-<br>
-
+- 📄 Check out my Google Docs Dark Theme Extension at [Dark Docs 2.0][darkdocs]
+- ⚡ Fun fact: I'm an Ex-International Level Rock Climber, and I love Producing Electronic Music!
 
 <!--
 **ameyalambat128/ameyalambat128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,6 +27,8 @@ Here are some ideas to get you started:
 -->
 
 [breze]: https://breze.one/
+[devgraph]: https://devgraph.ameyalambat.com
+[darkdocs]: https://darkdocs.ameyalambat.com
 [chs-asu]: https://chs.asu.edu/
 [onshape]: https://onshape.com/en/
 [paypal]: https://www.paypal.com/us/home
