@@ -2,11 +2,11 @@
 
 # Hey, I'm [Ameya][website] ⚡
 
-### I do Software/ML Research at [CHS ASU][chs-asu] and am a Computer Science Grad at Arizona State University.
-- 📽️ Currently working on [DevGraph][devgraph]
+### I do Software/ML Research at [CHS ASU][chs-asu] and am a Computer Science Grad from ASU.
+- Currently working on [DevGraph][devgraph]
 - Software/ML Research at [CHS ASU][chs-asu]
-- 📄 Check out my Google Docs Dark Theme Extension at [Dark Docs 2.0][darkdocs]
-<br/>
+- Check out my Google Docs Dark Theme Extension at [Dark Docs 2.0][darkdocs]
+
 - Engineering at [Onshape][onshape] '24, [PayPal][paypal] '23, and [Corsair][corsair] '22
 - ⚡ Fun fact: I'm an Ex-International Level Rock Climber, and I love Producing Electronic Music!
 
