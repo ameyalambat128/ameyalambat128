@@ -5,10 +5,9 @@
 ### I do Software/ML Research at [CHS ASU][chs-asu] and am a Computer Science Grad at Arizona State University.
 - 📽️ Currently working on [DevGraph][devgraph]
 - Software/ML Research at [CHS ASU][chs-asu]
-- 🏢 Software Engineer Intern at [Onshape][onshape] '24
-- 🏢 Software Engineer Intern at [PayPal][paypal] '23
-- 🏢 Software Engineer Intern at [Corsair][corsair] '22
 - 📄 Check out my Google Docs Dark Theme Extension at [Dark Docs 2.0][darkdocs]
+<br/>
+- Engineering at [Onshape][onshape] '24, [PayPal][paypal] '23, and [Corsair][corsair] '22
 - ⚡ Fun fact: I'm an Ex-International Level Rock Climber, and I love Producing Electronic Music!
 
 <!--
