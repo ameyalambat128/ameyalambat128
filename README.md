@@ -1,38 +1,17 @@
+# Hey, I'm [Ameya](https://www.ameyalambat.com/)
 
+Research at ASU · Eng @ PayPal, Onshape, Corsair
 
-# Hey, I'm [Ameya][website] ⚡
+### Building
 
-### I do Software/ML Research at [CHS ASU][chs-asu] and am a Computer Science Grad from ASU.
-- Currently working on [DevGraph][devgraph]
-- Software/ML Research at [CHS ASU][chs-asu]
-- Check out my Google Docs Dark Theme Extension at [Dark Docs 2.0][darkdocs]
+**[DevGraph](https://github.com/ameyalambat128/devgraph)** — The universal context layer for your code
 
-- Engineering at [Onshape][onshape] '24, [PayPal][paypal] '23, and [Corsair][corsair] '22
-- ⚡ Fun fact: I'm an Ex-International Level Rock Climber, and I love Producing Electronic Music!
+**[swiftui-skills](https://github.com/ameyalambat128/swiftui-skills)** — AI agent skills for idiomatic SwiftUI from Apple's Xcode docs
 
-<!--
-**ameyalambat128/ameyalambat128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**[Dark Docs 2.0](https://darkdocs.ameyalambat.com)** — The dark theme for Google Docs that they forgot to add
 
-Here are some ideas to get you started:
+Ex-international rock climber and electronic music producer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-[breze]: https://breze.one/
-[devgraph]: https://devgraph.ameyalambat.com
-[darkdocs]: https://darkdocs.ameyalambat.com
-[chs-asu]: https://chs.asu.edu/
-[onshape]: https://onshape.com/en/
-[paypal]: https://www.paypal.com/us/home
-[corsair]: https://www.corsair.com/us/en/
-[website]: https://ameyalambat.com/
-[linkedin]: http://www.linkedin.com/in/ameyalambat
-[twitter]: https://www.twitter.com/lambatameya
-[instagram]: https://www.instagram.com/ameyalambat128/
+[X](https://x.com/lambatameya) · [LinkedIn](https://www.linkedin.com/in/ameyalambat/) · [Website](https://www.ameyalambat.com/)
