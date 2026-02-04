@@ -1,6 +1,6 @@
 # Hey, I'm [Ameya](https://www.ameyalambat.com/)
 
-Research at ASU · Eng @ PayPal, Onshape, Corsair
+Research @ ASU · Eng @ PayPal, Onshape, Corsair
 
 ### Building
 
