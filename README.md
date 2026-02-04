@@ -8,7 +8,7 @@ Research @ [ASU](https://www.asu.edu/) · Eng @ [PayPal](https://www.paypal.com/
 - 🍎 **[SwiftUI Skills](https://github.com/ameyalambat128/swiftui-skills)** — AI agent skills for idiomatic SwiftUI from Apple's Xcode docs
 - 🌘 **[Dark Docs 2.0](https://darkdocs.ameyalambat.com)** — The dark theme for Google Docs that they forgot to add
 
-Ex-international rock climber and electronic music producer.
+Ex-pro rock climber and electronic music producer.
 
 ---
 
