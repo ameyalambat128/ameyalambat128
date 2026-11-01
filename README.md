@@ -9,7 +9,7 @@ Research @ [ASU](https://www.asu.edu/) · Eng @ [PayPal](https://www.paypal.com/
 - 🌘 **[Dark Docs 2.0](https://darkdocs.ameyalambat.com)** — The dark theme for Google Docs that they forgot to add
 - 🔍 **[API Hover](https://apihover.ameyalambat.com)** — See API calls tied to UI interactions
 
-Ex-pro rock climber and electronic music producer.
+Ex-pro rock climber.
 
 ---
 
